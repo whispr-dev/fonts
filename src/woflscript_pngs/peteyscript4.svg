@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200">
+  <text x="50" y="80" font-size="48" font-family="Arial">§: 🝑</text>
+  <text x="150" y="80" font-size="48" font-family="Arial">¦: 🝒</text>
+  <text x="250" y="80" font-size="48" font-family="Arial">†: 🝓</text>
+  <text x="350" y="80" font-size="48" font-family="Arial">‡: 🝔</text>
+  <text x="450" y="80" font-size="48" font-family="Arial">◊: 🝕</text>
+  <text x="550" y="80" font-size="48" font-family="Arial">℗: 🝖</text>
+  <text x="650" y="80" font-size="48" font-family="Arial">Ω: 🝗</text>
+  <text x="750" y="80" font-size="48" font-family="Arial">∞: 🝘</text>
+
+  <text x="50" y="180" font-size="48" font-family="Arial">≈: 🝙</text>
+  <text x="150" y="180" font-size="48" font-family="Arial">≠: 🝚</text>
+  <text x="250" y="180" font-size="48" font-family="Arial">≤: 🝛</text>
+  <text x="350" y="180" font-size="48" font-family="Arial">≥: 🝜</text>
+  <text x="450" y="180" font-size="48" font-family="Arial">←: 🝝</text>
+  <text x="550" y="180" font-size="48" font-family="Arial">↑: 🝞</text>
+  <text x="650" y="180" font-size="48" font-family="Arial">→: 🝟</text>
+  <text x="750" y="180" font-size="48" font-family="Arial">↓: 🝠</text>
+
+  <text x="50" y="280" font-size="48" font-family="Arial">↔: 🝡</text>
+  <text x="150" y="280" font-size="48" font-family="Arial">↕: 🝢</text>
+  <text x="250" y="280" font-size="48" font-family="Arial">⇄: 🝣</text>
+  <text x="350" y="280" font-size="48" font-family="Arial">⇅: 🝤</text>
+  <text x="450" y="280" font-size="48" font-family="Arial">⌘: 🝥</text>
+  <text x="550" y="280" font-size="48" font-family="Arial">⌥: 🝦</text>
+  <text x="650" y="280" font-size="48" font-family="Arial">⏎: 🝧</text>
+  <text x="750" y="280" font-size="48" font-family="Arial">⎋: 🝨</text>
+</svg>

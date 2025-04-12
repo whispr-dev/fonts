@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200">
+  <text x="50" y="80" font-size="48" font-family="Arial">BS: ⬅</text>
+  <text x="250" y="80" font-size="48" font-family="Arial">HT: ⇥</text>
+  <text x="450" y="80" font-size="48" font-family="Arial">VT: ↕</text>
+  <text x="650" y="80" font-size="48" font-family="Arial">CR: ⏎</text>
+  <text x="850" y="80" font-size="48" font-family="Arial">ESC: ⎋</text>
+  <text x="1050" y="80" font-size="48" font-family="Arial">SPACE: ␣</text>
+
+  <text x="50" y="180" font-size="48" font-family="Arial">#: ⨳</text>
+  <text x="150" y="180" font-size="48" font-family="Arial">$: ¤</text>
+  <text x="250" y="180" font-size="48" font-family="Arial">%: ↯</text>
+  <text x="350" y="180" font-size="48" font-family="Arial"> : ⚯</text>
+  <text x="450" y="180" font-size="48" font-family="Arial">': ❛</text>
+  <text x="550" y="180" font-size="48" font-family="Arial">+: ⊕</text>
+  <text x="650" y="180" font-size="48" font-family="Arial">-: −</text>
+  <text x="750" y="180" font-size="48" font-family="Arial">/: ⧸</text>
+  <text x="850" y="180" font-size="48" font-family="Arial">@: ⚙</text>
+
+  <text x="50" y="280" font-size="48" font-family="Arial">[: ❲</text>
+  <text x="150" y="280" font-size="48" font-family="Arial">\: ⧵</text>
+  <text x="250" y="280" font-size="48" font-family="Arial">]: ❳</text>
+  <text x="350" y="280" font-size="48" font-family="Arial">^: ˆ</text>
+  <text x="450" y="280" font-size="48" font-family="Arial">_: ‗</text>
+  <text x="550" y="280" font-size="48" font-family="Arial">`: ˋ</text>
+  <text x="650" y="280" font-size="48" font-family="Arial">{: ⦃</text>
+  <text x="750" y="280" font-size="48" font-family="Arial">|: ∣</text>
+  <text x="850" y="280" font-size="48" font-family="Arial">}: ⦄</text>
+  
+  <text x="50" y="380" font-size="48" font-family="Arial">€: €</text>
+  <text x="150" y="380" font-size="48" font-family="Arial">¡: ¡</text>
+  <text x="250" y="380" font-size="48" font-family="Arial">¢: ¢</text>
+  <text x="350" y="380" font-size="48" font-family="Arial">¤: ¤</text>
+  <text x="450" y="380" font-size="48" font-family="Arial">¥: ¥</text>
+  <text x="550" y="380" font-size="48" font-family="Arial">§: §</text>
+  <text x="650" y="380" font-size="48" font-family="Arial">©: ©</text>
+  <text x="750" y="380" font-size="48" font-family="Arial">®: ®</text>
+  <text x="850" y="380" font-size="48" font-family="Arial">°: °</text>
+
+  <text x="50" y="480" font-size="48" font-family="Arial">½: ½</text>
+  <text x="150" y="480" font-size="48" font-family="Arial">¾: ¾</text>
+  <text x="250" y="480" font-size="48" font-family="Arial">¿: ¿</text>
+  <text x="350" y="480" font-size="48" font-family="Arial">🝐: 🝐</text>
+</svg>
